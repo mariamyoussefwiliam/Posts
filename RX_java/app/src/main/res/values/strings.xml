@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RX_java</string>
+    <string name="info">info</string>
+    <string name="from_api">from_api</string>
+    <string name="insert">insert</string>
+    <string name="from_database">from_database</string>
+    <string name="clearposts">clearposts</string>
+
+</resources>
